@@ -65,16 +65,9 @@
 
 ---
 
-## 💬 Dev Quote of the Day
+## 🧰 Skill Cloud
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote" />
-</p>
-
----
-
-## 😂 Dev Meme of the Day
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AryanGupta1112/AryanGupta1112/output/dev-meme.jpg" width="420" alt="Random programming meme"/>
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=2&theme=github_dark&width=600&align=center&fontSize=14&gap=8&line1=Java,Kotlin,Python,React,NodeJS,AndroidStudio;line2=MongoDB,MySQL,Express,Git,Github,Vercel,Firebase" />
 </p>
 
 ---
