@@ -77,6 +77,11 @@
 
 ---
 
+## 🤖 Random Fun Fact
+![Fun Fact](https://readme-jokes.vercel.app/api?theme=radical)
+
+---
+
 ### 📊 GitHub Analytics
 <p align="center">
   <!-- Stats -->
