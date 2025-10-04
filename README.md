@@ -73,12 +73,17 @@
 ---
 
 ## 🤖 Random Fun Fact
+<p align="center">
 ![Fun Fact](https://readme-jokes.vercel.app/api?theme=radical)
+</p>
 
 ---
 
-## 💬 Random Developer Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🧩 Currently Learning
+![AI/ML](https://img.shields.io/badge/-AI%2FML-ff69b4?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-blue)
+![Robotics](https://img.shields.io/badge/-Robotics-orange)
+![Full Stack Dev](https://img.shields.io/badge/-Full%20Stack%20Development-brightgreen)
 
 ---
 
