@@ -72,13 +72,6 @@
 
 ---
 
-## 📊 Metrics Overview
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AryanGupta1112/AryanGupta1112/main/github-metrics.svg" alt="Metrics"/>
-</p>
-
----
-
 ### 📊 GitHub Analytics
 <p align="center">
   <!-- Stats -->
