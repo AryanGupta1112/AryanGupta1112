@@ -57,11 +57,12 @@
 
 ---
 
-### 🪪 My Holopin Board
+### 🏆 GitHub Achievements
 <!-- Replace YOUR-HOLOPIN-USER with your holopin username -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AryanGupta1112&theme=darkhub&no-frame=true&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
 </p>
+
 ---
 
 ### 📊 GitHub Analytics
