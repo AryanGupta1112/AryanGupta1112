@@ -72,9 +72,9 @@
 
 ---
 
-## 🏙️ My GitHub Skyline
+## 📊 Metrics Overview
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AryanGupta1112/AryanGupta1112/main/skyline.gif" width="500" alt="3D Skyline"/>
+  <img src="https://raw.githubusercontent.com/AryanGupta1112/AryanGupta1112/main/github-metrics.svg" alt="Metrics"/>
 </p>
 
 ---
