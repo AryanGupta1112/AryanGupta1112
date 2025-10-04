@@ -77,8 +77,8 @@
 
 ---
 
-## 🤖 Random Fun Fact
-![Fun Fact](https://readme-jokes.vercel.app/api?theme=radical)
+## 💬 Random Developer Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
