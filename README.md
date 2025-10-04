@@ -65,9 +65,9 @@
 
 ---
 
-## 🧰 Skill Cloud
+## 🏙️ My GitHub Skyline
 <p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=2&theme=github_dark&width=600&align=center&fontSize=14&gap=8&line1=Java,Kotlin,Python,React,NodeJS,AndroidStudio;line2=MongoDB,MySQL,Express,Git,Github,Vercel,Firebase" />
+  <img src="https://raw.githubusercontent.com/AryanGupta1112/AryanGupta1112/main/skyline.gif" width="500" alt="3D Skyline"/>
 </p>
 
 ---
