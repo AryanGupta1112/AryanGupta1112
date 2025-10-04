@@ -119,7 +119,7 @@
 ---
 
 ### ☕ Support
-<!-- Replace with your link or remove this section -->
+<!-- Replace with your link or remove this secton -->
 <a href="https://www.buymeacoffee.com/YOUR-USERNAME" target="_blank">
   <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?logo=buymeacoffee&logoColor=black" />
 </a>
