@@ -65,6 +65,13 @@
 
 ---
 
+## 💬 Dev Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote" />
+</p>
+
+---
+
 ## 🏙️ My GitHub Skyline
 <p align="center">
   <img src="https://raw.githubusercontent.com/AryanGupta1112/AryanGupta1112/main/skyline.gif" width="500" alt="3D Skyline"/>
