@@ -74,15 +74,17 @@
 
 ## 😂 Dev Meme of the Day
 <p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="400px"/>
+  <img src="https://raw.githubusercontent.com/AryanGupta1112/AryanGupta1112/output/dev-meme.jpg" width="420" alt="Random programming meme"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/AryanGupta1112/AryanGupta1112/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AryanGupta1112/AryanGupta1112/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AryanGupta1112/AryanGupta1112/output/github-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/AryanGupta1112/AryanGupta1112/output/github-snake.svg">
+</picture>
 
 ---
 
