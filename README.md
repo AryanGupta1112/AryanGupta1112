@@ -65,10 +65,9 @@
 
 ---
 
-## 📈 Activity Graph
-
+## 💬 Dev Quote of the Day
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanGupta1112&bg_color=0d1117&color=8e05c2&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote" />
 </p>
 
 ---
