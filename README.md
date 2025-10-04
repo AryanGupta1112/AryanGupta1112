@@ -72,6 +72,20 @@
 
 ---
 
+## 😂 Dev Meme of the Day
+<p align="center">
+  <img src="https://random-memer.herokuapp.com/" width="400px"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/AryanGupta1112/AryanGupta1112/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
 ### 📊 GitHub Analytics
 <p align="center">
   <!-- Stats -->
