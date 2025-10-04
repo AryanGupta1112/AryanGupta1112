@@ -59,8 +59,8 @@
 
 ### 🪪 My Holopin Board
 <!-- Replace YOUR-HOLOPIN-USER with your holopin username -->
-<a href="https://holopin.io/@YOUR-HOLOPIN-USER">
-  <img src="https://holopin.me/YOUR-HOLOPIN-USER" alt="@YOUR-HOLOPIN-USER Holopin Board"/>
+<a href="https://holopin.io/@aryangupta1112">
+  <img src="[https://holopin.me/YOUR-HOLOPIN-USER](https://www.holopin.io/@aryangupta1112#)" alt="@aryangupta1112 Holopin Board"/>
 </a>
 
 ---
