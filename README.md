@@ -59,10 +59,9 @@
 
 ### 🪪 My Holopin Board
 <!-- Replace YOUR-HOLOPIN-USER with your holopin username -->
-<a href="https://holopin.io/@aryangupta1112">
-  <img src="[https://holopin.me/YOUR-HOLOPIN-USER](https://www.holopin.io/@aryangupta1112#)" alt="@aryangupta1112 Holopin Board"/>
-</a>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AryanGupta1112&theme=darkhub&no-frame=true&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
+</p>
 ---
 
 ### 📊 GitHub Analytics
