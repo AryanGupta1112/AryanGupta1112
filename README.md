@@ -57,10 +57,31 @@
 
 ---
 
-### 🏆 GitHub Achievements
-<!-- Replace YOUR-HOLOPIN-USER with your holopin username -->
+### 🚀 Featured Projects
+<!-- Replace repo names if needed (must match EXACT repo slug on your GitHub) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AryanGupta1112&theme=darkhub&no-frame=true&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
+  <a href="https://github.com/AryanGupta1112/Offline-Campus-Navigation" target="_blank">
+    <img src="https://img.shields.io/badge/Offline%20Campus%20Navigation-Repo-181717?logo=github&style=for-the-badge" alt="Offline Campus Navigation"/>
+  </a>
+  <a href="https://github.com/AryanGupta1112/legal-ai-assistant" target="_blank">
+    <img src="https://img.shields.io/badge/Legal%20AI%20Assistant-Repo-181717?logo=github&style=for-the-badge" alt="Legal AI Assistant"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AryanGupta1112/RescueNet" target="_blank">
+    <img src="https://img.shields.io/badge/RescueNet-Repo-181717?logo=github&style=for-the-badge" alt="RescueNet"/>
+  </a>
+  <a href="https://github.com/AryanGupta1112/SmartFit" target="_blank">
+    <img src="https://img.shields.io/badge/SmartFit-Repo-181717?logo=github&style=for-the-badge" alt="SmartFit"/>
+  </a>
+</p>
+
+<p align="center">
+  <!-- Add live links if you have them -->
+  <a href="https://legal-ai-assistant-rho.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-Legal%20AI%20Assistant-000000?logo=vercel&style=for-the-badge" alt="Legal AI Assistant Live"/>
+  </a>
 </p>
 
 ---
@@ -86,27 +107,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AryanGupta1112&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanGupta1112&theme=radical" height="165" />
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanGupta1112&layout=compact&theme=radical" height="165" />
-</p>
-
-<!-- Optional: Activity Graph -->
-<!--
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanGupta1112&theme=react-dark" />
-</p>
--->
-
----
-
 ### 🤝 Connect with Me
 <p align="left">
   <a href="mailto:aryangup17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
@@ -123,4 +123,3 @@
 <a href="https://www.buymeacoffee.com/aryangup17n" target="_blank">
   <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?logo=buymeacoffee&logoColor=black" />
 </a>
-
