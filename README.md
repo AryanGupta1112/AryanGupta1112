@@ -72,14 +72,11 @@
   <a href="https://github.com/AryanGupta1112/RescueNet" target="https://github.com/AryanGupta1112/RescueNet">
     <img src="https://img.shields.io/badge/RescueNet-Repo-181717?logo=github&style=for-the-badge" alt="RescueNet"/>
   </a>
-  <a href="https://github.com/AryanGupta1112/SmartFit" target="_blank">
-    <img src="https://img.shields.io/badge/SmartFit-Repo-181717?logo=github&style=for-the-badge" alt="SmartFit"/>
-  </a>
 </p>
 
 <p align="center">
   <!-- Add live links if you have them -->
-  <a href="https://legal-ai-assistant-rho.vercel.app" target="_blank">
+  <a href="https://legal-ai-assistant-rho.vercel.app" target="https://legal-ai-assistant-rho.vercel.app/">
     <img src="https://img.shields.io/badge/Live%20Demo-Legal%20AI%20Assistant-000000?logo=vercel&style=for-the-badge" alt="Legal AI Assistant Live"/>
   </a>
 </p>
