@@ -60,16 +60,16 @@
 ### 🚀 Featured Projects
 <!-- Replace repo names if needed (must match EXACT repo slug on your GitHub) -->
 <p align="center">
-  <a href="https://github.com/AryanGupta1112/Offline-Campus-Navigation" target="_blank">
+  <a href="https://github.com/AryanGupta1112/Offline-Campus-Navigation" target="https://github.com/AryanGupta1112/Offline-Campus-Navigation">
     <img src="https://img.shields.io/badge/Offline%20Campus%20Navigation-Repo-181717?logo=github&style=for-the-badge" alt="Offline Campus Navigation"/>
   </a>
-  <a href="https://github.com/AryanGupta1112/legal-ai-assistant" target="_blank">
+  <a href="https://github.com/AryanGupta1112/legal-ai-assistant" target="https://github.com/AryanGupta1112/legal-ai-assistant">
     <img src="https://img.shields.io/badge/Legal%20AI%20Assistant-Repo-181717?logo=github&style=for-the-badge" alt="Legal AI Assistant"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/AryanGupta1112/RescueNet" target="_blank">
+  <a href="https://github.com/AryanGupta1112/RescueNet" target="https://github.com/AryanGupta1112/RescueNet">
     <img src="https://img.shields.io/badge/RescueNet-Repo-181717?logo=github&style=for-the-badge" alt="RescueNet"/>
   </a>
   <a href="https://github.com/AryanGupta1112/SmartFit" target="_blank">
